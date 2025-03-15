@@ -1,6 +1,3 @@
-For your GitHub project documentation, here’s a detailed write-up on the "Adult Income Analysis" project that you can use to showcase your work effectively:
-
----
 
 ### **Adult Income Analysis Project**
 
